@@ -1,4 +1,290 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T17:07:32+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Как сделать из Lenovo отличный ноутбук</title><link href="http://localhost:4000/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html" rel="alternate" type="text/html" title="Как сделать из Lenovo отличный ноутбук" /><published>2019-05-18T12:25:57+03:00</published><updated>2019-05-18T12:25:57+03:00</updated><id>http://localhost:4000/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA</id><content type="html" xml:base="http://localhost:4000/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html">&lt;p&gt;Никогда в жизни не было у меня мощного ноутбука или компьютера. Я-ш-админ - любую технику можно заставить быстро выполнить почти любую требуемую задачу. Но недавно появилась-таки острая потребность именно в быстром ноутбуке.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T22:24:12+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="http://localhost:4000/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>http://localhost:4000/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="http://localhost:4000/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
+    input {
+        width: 5em
+    }
+
+    .gray {
+        background-color: #ddd !important
+    }
+
+    tr {
+        background-color: white !important
+    }
+
+    td {
+        padding: 5px !important;
+    }
+&lt;/style&gt;
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;MathJax.Hub.Config({
+        menuSettings: { zoom: &quot;Hover&quot; },
+          CommonHTML: { linebreaks: { automatic: true } },
+          &quot;HTML-CSS&quot;: { linebreaks: { automatic: true } },
+                 SVG: { linebreaks: { automatic: true } }
+      });
+      &lt;/script&gt;
+&lt;script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async&gt;&lt;/script&gt;
+
+&lt;p&gt;
+    Формулы взяты из статьи про TDA2050 и прошли мою проверку иными источниками. Формулы расчета подсказывают самые максимальные значения, которые только можно получить теоретически. Эти данные важны для понимания &quot;потолков&quot; мощностей. Взять блок питания послабее всегда можно, учитывая пик-фактор музыки, наличие мощных конденсаторов и то, что люди редко слушают музыку на пределе громкости.
+&lt;/p&gt;
+
+&lt;div class=&quot;container&quot; id=&quot;app&quot;&gt;
+    Данные для:
+    &lt;input type=&quot;submit&quot; value=&quot;TDA2050&quot; @click=&quot;Qdc=0.09; vLossAmpVod = 4;&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;LM3886&quot; @click=&quot;Qdc=0.085; vLossAmpVod = 3;&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;TDA7294&quot; @click=&quot;Qdc=0.065; vLossAmpVod = 3;&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;TDA7293&quot; @click=&quot;Qdc=0.100; vLossAmpVod = 3;&quot;&gt;
+    &lt;table&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;powerOutputPo&quot; @keydown.up=&quot;powerOutputPo = Number(powerOutputPo)+1&quot; @keydown.down=&quot;powerOutputPo = Number(powerOutputPo)-1&quot;&gt; &lt;/td&gt;
+            &lt;td&gt; Общая выходная мощность усилителя, Вт (P&lt;sub&gt;o&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;coilresistanceRl&quot;&gt; &lt;/td&gt;
+            &lt;td&gt; Импеданс динамика, Ом (R&lt;sub&gt;L&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;Vopeak&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Пиковое выходное напряжение, (V&lt;sub&gt;opeak&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;vLossAmpVod&quot;&gt; &lt;/td&gt;
+            &lt;td&gt; Падение напряжения на усилителе, (V&lt;sub&gt;od&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;Qdc&quot;&gt; &lt;/td&gt;
+            &lt;td&gt; Ток покоя усилителя, (Q&lt;sub&gt;dc&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;regulation&quot;&gt; &lt;/td&gt;
+            &lt;td&gt; Величина повышения напряжения при простое трансформатора, % (Regulation) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;skachki&quot;&gt; &lt;/td&gt;
+            &lt;td&gt; Коэффициент нестабильности напряжения питающей сети 220в, % &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;Vmaxsupply&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Максимальное постоянное напряжение блока питания, &amp;plusmn;В, (V&lt;sub&gt;max supply&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;VmaxsupplyAc&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Максимальное номинальное переменное напряжение одного плеча трансформатора (под нагрузкой) АС, В, (V&lt;sub&gt;max supply AC&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;Imaxsupplyac&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Максимальная сила тока переменного напряжения одного плеча трансформатора (под нагрузкой) АС, А (I&lt;sub&gt;max supply AC&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input :value=&quot;Psupply/2&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Активная мощность трансформатора на один канал усилителя (на одно плечо питания), Вт (P&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;Psupply&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Активная мощность трансформатора на один канал усилителя (суммарно на оба плеча), Вт (P&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input :value=&quot;Ssupply/2&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Полная мощность трансформатора на один канал усилителя (на одно плечо питания), ВA (S&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input v-model=&quot;Ssupply&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Полная мощность трансформатора на один канал усилителя (суммарно на оба плеча), ВA (S&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js&quot; integrity=&quot;sha256-ufGElb3TnOtzl5E4c/qQnZFGP+FYEZj5kbSEdJNrw0A=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+    new Vue({
+        el: '#app'
+        , data: {
+            coilresistanceRl: 4
+            , powerOutputPo: 25
+            , vLossAmpVod: 4
+            , regulation: 10
+            , skachki: 10
+            , Qdc: 0.09
+        }
+        , computed: {
+            Vopeak: function() {
+                return Math.round(Math.sqrt(2 * this.coilresistanceRl * this.powerOutputPo) * 100) / 100
+            }
+            , Vmaxsupply: function() {
+                return Math.round((this.Vopeak + Number(this.vLossAmpVod)) * (1 + this.regulation / 100) * (1 + this.skachki / 100) * 100) / 100
+            }
+            , VmaxsupplyAc: function() {
+                return Math.round((this.Vopeak + Number(this.vLossAmpVod)) / 1.41 * 100) / 100
+            }
+            , Psupply: function() {
+                return Math.round(2 * this.Vmaxsupply * (this.Vopeak / (Math.PI * this.coilresistanceRl) + this.Qdc) * 100) / 100
+            }
+            , Ssupply: function() {
+                return Math.round(this.Psupply * 1.5 * 100) / 100
+            }
+            , Imaxsupplyac: function() {
+                return Math.round(this.Ssupply / 2 / this.VmaxsupplyAc * 100) / 100
+            }
+        }
+    })
+&lt;/script&gt;
+
+
+&lt;h2&gt;Откуда эти цифры&lt;/h2&gt;
+&lt;h3&gt;1. Расчет мощности амплитудного напряжения для синусоиды.&lt;/h3&gt;
+&lt;p&gt;
+    Вот цитата с &lt;a href=&quot;https://ru.wikipedia.org/wiki/Переменный_ток&quot; target=&quot;_blank&quot;&gt;https://ru.wikipedia.org/wiki/Переменный_ток&lt;/a&gt; (на всякий случай – &lt;a href=&quot;https://blog.ez.by/wp-content/uploads/2019/02/Википедия-переменный-ток.pdf&quot; target=&quot;_blank&quot;&gt;вот копия в pdf формате&lt;/a&gt;), если там пропадет):
+
+    &lt;blockquote&gt;Действующее значение напряжения в \(\sqrt{2}\) меньше его амплитуды: \(U = \frac{U_m}{\sqrt{2}}\) или \({U_m} = U \times \sqrt{2}\).
+        &lt;br&gt;Um = Vopeak – амплитудное напряжение
+        &lt;br&gt;U – действующее (среднеквадратичное значение) напряжения
+    &lt;/blockquote&gt;
+
+    Таким образом, формула мощности
+
+    \( {Po} = {U} * {I}
+    \\= \frac{ U * U }{R}
+    \\= \frac{\frac{Um}{\sqrt{2}} * \frac{Um}{\sqrt{2}}}{R}
+    \\= \frac{Um^{2}}{2 * R}
+    \)
+
+    Откуда
+
+    \(
+    {Um} = \sqrt{ 2 * {Po} * {R}}
+    \).
+
+&lt;/p&gt;
+
+&lt;h3&gt;2. Пиковое выходное напряжение&lt;/h3&gt;
+&lt;p&gt;
+    \( V_{max \ supply} = \pm( V_{opeak}+ V_{od})(1+Regulation)(1.1)
+    \\V_{opeak}= пиковое\ выходное\ напряжение
+    \\V_{od}= Падение\ напряжения\ на\ усилителе
+    \\Regulation= Величина\ повышения\ напряжения\ при\ простое\ трансформатора,\ \%
+    \\1.1= коэффициент\ нестабильности\ напряжения\ питающей\ сети\ 220в\ (10\%)
+    \)
+    &lt;br&gt;
+    Тут мы тупо рассчитываем максимальное напряжение питания, чтобы при скачке напряжения или повышении напряжения трансформатора на холостом ходу, не спалить нашу микруху.
+    &lt;br&gt;Преобразование переменки в постоянку - по идеальному коэффициенту 1.41, без учета падения напряжения на диодах.
+&lt;/p&gt;
+
+&lt;h3&gt;3. Расчет мощности трансформатора от мощности усилителя&lt;/h3&gt;
+&lt;p&gt;
+    Любой B и AB класс имеет потолок производительности, определенный принципами. Есть формула, которую приводят создатели LM3886 в даташите:
+    \(P_{supply} = 2 \times V_{cc}(\frac{V_{opeak}}{\pi\times R_{L}}+QDC)
+    \\V_{cc}=Напряжение\ одного\ плеча\ питания\ без\ нагрузки (на\ холостом\ ходу\ трансформатора)
+    \\V_{opeak}= пиковое\ выходное\ напряжение
+    \\QDC = Ток\ покоя усилителя
+    \\R_{L} = импеданс\ динамика
+    \)
+    &lt;br&gt;В статье про TDA2050, автор в данной формуле использует максимальное напряжение без нагрузки, хотя под нагрузкой оно просядет в любом случае. Это сделано для перестраховки, чтобы найти максимальные значения. Отступить от них всегда можно.
+    &lt;br&gt;Эта формула интересно вытекает из разных других. Оставлю тут пару слайдов, которые наталкивают на размышления.
+&lt;/p&gt;
+
+
+&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
+    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/1.png&quot;  title=&quot;1&quot;  style=&quot;text-decoration: none;&quot;&gt;
+        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/1.png&quot;  alt=&quot;1&quot;   width=&quot;300px&quot; &gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption style=&quot;text-align: center&quot;&gt;
+        1
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
+    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/2.png&quot;  title=&quot;2&quot;  style=&quot;text-decoration: none;&quot;&gt;
+        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/2.png&quot;  alt=&quot;2&quot;   width=&quot;300px&quot; &gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption style=&quot;text-align: center&quot;&gt;
+        2
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
+    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/3.png&quot;  title=&quot;3&quot;  style=&quot;text-decoration: none;&quot;&gt;
+        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/3.png&quot;  alt=&quot;3&quot;   width=&quot;300px&quot; &gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption style=&quot;text-align: center&quot;&gt;
+        3
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
+    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/4.png&quot;  title=&quot;4&quot;  style=&quot;text-decoration: none;&quot;&gt;
+        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/4.png&quot;  alt=&quot;4&quot;   width=&quot;300px&quot; &gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption style=&quot;text-align: center&quot;&gt;
+        4
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
+    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/5.png&quot;  title=&quot;5&quot;  style=&quot;text-decoration: none;&quot;&gt;
+        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/5.png&quot;  alt=&quot;5&quot;   width=&quot;300px&quot; &gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption style=&quot;text-align: center&quot;&gt;
+        5
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
+    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/6.png&quot;  title=&quot;6&quot;  style=&quot;text-decoration: none;&quot;&gt;
+        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/6.png&quot;  alt=&quot;6&quot;   width=&quot;300px&quot; &gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption style=&quot;text-align: center&quot;&gt;
+        6
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
+    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/7.png&quot;  title=&quot;7&quot;  style=&quot;text-decoration: none;&quot;&gt;
+        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/7.png&quot;  alt=&quot;7&quot;   width=&quot;300px&quot; &gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption style=&quot;text-align: center&quot;&gt;
+        7
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;br clear=&quot;all&quot;&gt;
+
+&lt;h3&gt;4. Перевод активной мощности в полную мощность&lt;/h3&gt;
+&lt;p&gt;
+    Тупо взят усредненный коэффициент 1.5 (0.66 при обратном преобразовании).
+&lt;/p&gt;</content><author><name></name></author><summary type="html">input { width: 5em }</summary></entry><entry><title type="html">Как сделать из Lenovo отличный ноутбук</title><link href="http://localhost:4000/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html" rel="alternate" type="text/html" title="Как сделать из Lenovo отличный ноутбук" /><published>2019-05-18T12:25:57+03:00</published><updated>2019-05-18T12:25:57+03:00</updated><id>http://localhost:4000/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA</id><content type="html" xml:base="http://localhost:4000/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html">&lt;p&gt;Никогда в жизни не было у меня мощного ноутбука или компьютера. Я-ш-админ - любую технику можно заставить быстро выполнить почти любую требуемую задачу. Но недавно появилась-таки острая потребность именно в быстром ноутбуке.&lt;/p&gt;
 
 &lt;p&gt;Выбор пал на Lenovo - хорошие недорогие ноуты. За порядка 600 долларов был взят ноут (в ноябре 2018) на базе i5-8250 с Nvidia MX150 и предустановленными 8 Гб оперативной памяти. Аналогичный HP стоил бы 1200-1300 у.е.&lt;/p&gt;
 
@@ -930,7 +1216,8 @@ V_{max \ supply}=(V_{transformer})(1.41)(1.1)(1+Regulation)&lt;br /&gt;
 &lt;p&gt;Я взял трансформатор с номинальным напряжением 15 В переменного тока, чтобы посмотреть, будет ли оно обеспечивать максимальное постоянное напряжение питания, необходимое для моего усилителя:&lt;/p&gt;
 
 &lt;p&gt;\(&lt;br /&gt;
-V_{max\ supply}=(15\ V)(1.41)(1.1)(1+0.06) \=24.7\ V&lt;br /&gt;
+V_{max\ supply}=(15\ V)(1.41)(1.1)(1+0.06) 
+\\=24.7\ V&lt;br /&gt;
 \)&lt;/p&gt;
 
 &lt;p&gt;Таким образом, 15 В трансформатор даст мне максимальное напряжение питания 24,7 В постоянного тока после выпрямления. Это очень близко к максимальному напряжению питания 24,9 В, необходимому для моего усилителя, но теперь давайте точно рассчитаем, какую выходную мощность я получу с ним…&lt;/p&gt;
@@ -2188,251 +2475,4 @@ P_{supply} = 2 \times V_{cc}(\frac{V_{opeak}}{\pi\times R_{L}}+QDC)&lt;br /&gt;
 
 &lt;p&gt;Резисторы на термопасте, сверху устанавливается кулер при замерах. На фотках еще первая модификация. Сейчас добавился 4 канал выхода (еще один тумблер и кондер), когда передал выходы под балансный вход звуковухи.&lt;/p&gt;
 
-&lt;p&gt;Стендик выдерживает в краткосрочной нагрузке смело до 70-80 Вт. Подванивало от перегрева, но работало. Если долгосроно тестирую - всегда сверху одеваю кулер охлаждения.&lt;/p&gt;</content><author><name></name></author><summary type="html">Вторая часть цикла статей про усилитель Mauro/Vidalgo закончилась тем, что я спалил 2 платы в попытках их замерить через звуковую. На самом деле я немного приврал. Конечно же спалил я не две, а четыре платы. Первые две паленые платы для меня были не самым весомым аргументом остановиться и начать разбираться глубоко.</summary></entry><entry><title type="html">Реализация проекта колонок WTM813 Алексея Александрова</title><link href="http://localhost:4000/diy/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8/2019/02/15/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%BA-WTM813-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D1%8F-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0.html" rel="alternate" type="text/html" title="Реализация проекта колонок WTM813 Алексея Александрова" /><published>2019-02-15T13:25:57+03:00</published><updated>2019-02-15T13:25:57+03:00</updated><id>http://localhost:4000/diy/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8/2019/02/15/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%BA-WTM813-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D1%8F-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0</id><content type="html" xml:base="http://localhost:4000/diy/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8/2019/02/15/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%BA-WTM813-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D1%8F-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0.html">&lt;p&gt;После первого пробного своего собственного проекта акустической системы (т.е. колонок), я решил попробовать реализовать чужой интересный проект. Выбор пал на &lt;a href=&quot;http://avaaudio.my1.ru/publ/loudspeakers/bookshelf/trekhpolosnaja_as_wtm813_na_dinamikakh_dayton_audio/1-1-0-12&quot; target=&quot;_blank&quot;&gt;проект Алексея Александрова WTM813&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Очень часто аудио-сайты уходят в небытие, поэтому сохранил страничку проекта с авторского сайта в 
-&lt;a href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/Wtm813.pdf&quot;&gt;
-    pdf
-&lt;/a&gt; на всякий случай.&lt;/p&gt;
-
-&lt;p&gt;Дублировать авторское описание проекта не стану. Все технические подробности и размеры можно найти или на сайте или в pdf-ке.&lt;/p&gt;
-
-&lt;p&gt;Динамики используются не самые дорогие, отзывы были интересными, поэтому я решил попробовать.&lt;/p&gt;
-
-&lt;figure&gt;
-    
-        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/Dayton813.jpg&quot; title=&quot;Фотография динамиков с сайта автора проекта&quot; style=&quot;text-decoration: none;&quot;&gt;
-            
-            &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/Dayton813.jpg&quot; alt=&quot;Фотография динамиков с сайта автора проекта&quot; /&gt;
-        &lt;/a&gt;
-        
-        &lt;figcaption style=&quot;text-align: center&quot;&gt;
-            Фотография динамиков с сайта автора проекта
-        &lt;/figcaption&gt;
-        
-&lt;/figure&gt;
-
-&lt;p&gt;Для упрощения создания и с целью поддержки автора проекта, я заказал детали к фильтрам у самого Алексея.&lt;/p&gt;
-
-&lt;p&gt;Корпус в расчетах автора должен изготавливаться из 16мм МДФ. Но МДФ неудобен тем, что его надо отделывать пленкой после изготовления корпуса, а перед этим шпатлевать, шкурить. Это не входило в мои планы. Поэтому я делал из ламинированного ДСП.&lt;/p&gt;
-
-&lt;p&gt;Учитывая, что ДСП 16мм редкий и на выбор есть мало цветов, делал из 18мм. Пришлось пересчитать объем ящика. Постарался максимально близко попасть. Как написал автор, лицевую панель менять в размерах нельзя. Поэтому для компенсации более толстых стенок я увеличивал глубину.&lt;/p&gt;
-
-&lt;p&gt;Далее все просто - заказал роспил ламинированного дсп в компании, которая занимается раскроем - ВиЯр. Да, у них надо покупать сразу кратно листам - 2700х2000. Идея была сделать тумбу под телевизор и акустику из одного материала, чтобы было красиво, поэтому лишнего материала не осталось.&lt;/p&gt;
-
-&lt;p&gt;Вот расчет под кромку 1мм и толщину 18мм ДСП.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;408x248 - 2шт - лицо - с 4 сторон кромка&lt;/li&gt;
-  &lt;li&gt;316x250 - 4шт - верх и низ - с трех сторон кромка: 2 стороны по 316 и 1 по 250&lt;/li&gt;
-  &lt;li&gt;374x316 - 4шт - боковые - кромка по стороне 374&lt;/li&gt;
-  &lt;li&gt;354x214 - 2шт - тыл (можно сделать кромку по стороне 214, тогда вторая сторона будет по длине не 354, а 353 - но это верхний торец ФИ, его и так не видно)&lt;/li&gt;
-  &lt;li&gt;80x214 - 2шт - СЧ тыл&lt;/li&gt;
-  &lt;li&gt;58x214 - 2шт - СЧ низ&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/cdr-sto.zip&quot;&gt;
-    Файл
-&lt;/a&gt; для мебельной программы pro100 прикладываю - там готовая колонка с размерами под 18мм материал.&lt;/p&gt;
-
-&lt;p&gt;Лицевые панели фрезеровал в компании frezerbro. За основу брал 
-&lt;a href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/cdr-sto.zip&quot;&gt;
-    вот этот cdr
-&lt;/a&gt; файлик из &lt;a href=&quot;http://forum.vegalab.ru/showthread.php?t=75646&amp;amp;p=2317727&amp;amp;viewfull=1#post2317727&quot; target=&quot;_blank&quot;&gt;вот этого поста&lt;/a&gt; на вегалабе.&lt;/p&gt;
-
-&lt;p&gt;Склеивал по очередности из &lt;a href=&quot;http://forum.vegalab.ru/showthread.php?t=75646&amp;amp;p=2332347&amp;amp;viewfull=1#post2332347&quot; target=&quot;_blank&quot;&gt;этого поста&lt;/a&gt; на вегалабе. На случай сноса темы оттуда дублирую картинки сюда.&lt;/p&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/1-768x1024.jpg&quot; title=&quot;1 - верх и левая сторона&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/1-768x1024.jpg&quot; alt=&quot;1 - верх и левая сторона&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        1 - верх и левая сторона
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/2-768x1024.jpg&quot; title=&quot;2 - тыл и фазоинвертор&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/2-768x1024.jpg&quot; alt=&quot;2 - тыл и фазоинвертор&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        2 - тыл и фазоинвертор
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/3-1024x768.jpg&quot; title=&quot;3 - соединяем&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/3-1024x768.jpg&quot; alt=&quot;3 - соединяем&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        3 - соединяем
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/4-1024x768.jpg&quot; title=&quot;4 - низ&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/4-1024x768.jpg&quot; alt=&quot;4 - низ&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        4 - низ
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/5-768x1024.jpg&quot; title=&quot;5 - объем СЧ динамика&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/5-768x1024.jpg&quot; alt=&quot;5 - объем СЧ динамика&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        5 - объем СЧ динамика
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/6-1024x768.jpg&quot; title=&quot;6 - вклеиваем СЧ перегородку&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/6-1024x768.jpg&quot; alt=&quot;6 - вклеиваем СЧ перегородку&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        6 - вклеиваем СЧ перегородку
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/7-1024x768.jpg&quot; title=&quot;7 - правая сторона&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/7-1024x768.jpg&quot; alt=&quot;7 - правая сторона&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        7 - правая сторона
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/8-768x1024.jpg&quot; title=&quot;8 - сильно прижимаем лицевую&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/8-768x1024.jpg&quot; alt=&quot;8 - сильно прижимаем лицевую&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        8 - сильно прижимаем лицевую
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/8.8-1024x768.jpg&quot; title=&quot;8.1 - сильно прижимаем лицевую&quot; style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/8.8-1024x768.jpg&quot; alt=&quot;8.1 - сильно прижимаем лицевую&quot; width=&quot;300px&quot; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        8.1 - сильно прижимаем лицевую
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;br clear=&quot;all&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Клеил на клей “Дисперсия ПВА”. По сути, это обычный ПВА, но с пластификатором. Удобно, что излишки оттираются влажной тряпкой даже через неделю. Но сами швы так прочно берутся, что, когда чуть-чуть не под 90 градусов склеились детали, на следующий день пытался чуть-чуть подразорвать клей, чтобы пересклеить. Закончилось все треснувшей ДСП. Так что клей крепче, чем ДСП, высыхает быстро, от рук легко отмывается. Очень удобно.&lt;/p&gt;
-
-&lt;p&gt;Кабель для разводки внутри колонки использовал &lt;del&gt;направленный полированный бескислородный из позолоченной меди&lt;/del&gt; самый аудиофильский 0.75 многожильный электрический ШВВП 50 копеек за метр.&lt;/p&gt;
-
-&lt;figure&gt;
-    
-        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/500.jpg&quot; title=&quot;кабель из самого аудиофильского строительного магазина Mile&quot; style=&quot;text-decoration: none;&quot;&gt;
-            
-            &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/500.jpg&quot; alt=&quot;кабель из самого аудиофильского строительного магазина Mile&quot; /&gt;
-        &lt;/a&gt;
-        
-        &lt;figcaption style=&quot;text-align: center&quot;&gt;
-            кабель из самого аудиофильского строительного магазина Mile
-        &lt;/figcaption&gt;
-        
-&lt;/figure&gt;
-
-&lt;p&gt;Единственное, пришлось подпиливать отверстия под провода мида, потому что у мида магнит почти полностью закрывает дырку, провода уже не пролазят.&lt;/p&gt;
-
-&lt;figure&gt;
-    
-        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_122401-1024x768.jpg&quot; title=&quot;вот о чем я&quot; style=&quot;text-decoration: none;&quot;&gt;
-            
-            &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_122401-1024x768.jpg&quot; alt=&quot;вот о чем я&quot; /&gt;
-        &lt;/a&gt;
-        
-        &lt;figcaption style=&quot;text-align: center&quot;&gt;
-            вот о чем я
-        &lt;/figcaption&gt;
-        
-&lt;/figure&gt;
-
-&lt;p&gt;Все остальное довольно просто. Собираем фильтры и “дорисовываем остальную часть совы” :&lt;/p&gt;
-
-&lt;figure&gt;
-    
-        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_122304-768x1024.jpg&quot; title=&quot;Максимально разнес катушки друг от друга&quot; style=&quot;text-decoration: none;&quot;&gt;
-            
-            &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_122304-768x1024.jpg&quot; alt=&quot;Максимально разнес катушки друг от друга&quot; /&gt;
-        &lt;/a&gt;
-        
-        &lt;figcaption style=&quot;text-align: center&quot;&gt;
-            Максимально разнес катушки друг от друга
-        &lt;/figcaption&gt;
-        
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    
-        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_12231-768x1024.jpg&quot; title=&quot;Последний шаг&quot; style=&quot;text-decoration: none;&quot;&gt;
-            
-            &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_12231-768x1024.jpg&quot; alt=&quot;Последний шаг&quot; /&gt;
-        &lt;/a&gt;
-        
-        &lt;figcaption style=&quot;text-align: center&quot;&gt;
-            Последний шаг
-        &lt;/figcaption&gt;
-        
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    
-        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_165739-768x1024.jpg&quot; title=&quot;Винтики заменю как-нибудь на черные. Вот-вот уже.. Еще чуть-чуть и заменю...&quot; style=&quot;text-decoration: none;&quot;&gt;
-            
-            &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20181021_165739-768x1024.jpg&quot; alt=&quot;Винтики заменю как-нибудь на черные. Вот-вот уже.. Еще чуть-чуть и заменю...&quot; /&gt;
-        &lt;/a&gt;
-        
-        &lt;figcaption style=&quot;text-align: center&quot;&gt;
-            Винтики заменю как-нибудь на черные. Вот-вот уже.. Еще чуть-чуть и заменю...
-        &lt;/figcaption&gt;
-        
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    
-        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20190215_103719-768x1024.jpg&quot; title=&quot;я буду протирать камеру... я буду протирать камеру...&quot; style=&quot;text-decoration: none;&quot;&gt;
-            
-            &lt;img src=&quot;/assets/posts/2019-02-15-Реализация-проекта-колонок-wtm813-Алексея-Александрова/IMG_20190215_103719-768x1024.jpg&quot; alt=&quot;я буду протирать камеру... я буду протирать камеру...&quot; /&gt;
-        &lt;/a&gt;
-        
-        &lt;figcaption style=&quot;text-align: center&quot;&gt;
-            я буду протирать камеру... я буду протирать камеру...
-        &lt;/figcaption&gt;
-        
-&lt;/figure&gt;
-
-&lt;p&gt;Звучат офигенно. Детализация верхних частот поражает. Расслышал все огрехи сжатия музыки на ютубе в них. Сабвуфер с ними совсем не нужен. Тем более, что используется Dual voice coil НЧ динамик с двумя обмотками, которые соединены параллельно.&lt;/p&gt;
-
-&lt;p&gt;Формат колонок полочный, но звучат, как напольные. Непонятно, откуда из них столько звука. Словами не передать. Приходите в гости послушать :))&lt;/p&gt;
-
-&lt;p&gt;Когда собрал и ходил восхищался, думал - эффект новизны, привыкну, вау-эффект уйдет. Но прошло уже несколько месяцев и не было ни разу с момента их сборки такого, чтобы я не отметил, что они классно звучат при прослушивании чего-либо.&lt;/p&gt;
-
-&lt;p&gt;Отдельная благодарность автору Алексею Александрову за такой удачный проект.&lt;/p&gt;</content><author><name></name></author><summary type="html">После первого пробного своего собственного проекта акустической системы (т.е. колонок), я решил попробовать реализовать чужой интересный проект. Выбор пал на проект Алексея Александрова WTM813.</summary></entry></feed>
+&lt;p&gt;Стендик выдерживает в краткосрочной нагрузке смело до 70-80 Вт. Подванивало от перегрева, но работало. Если долгосроно тестирую - всегда сверху одеваю кулер охлаждения.&lt;/p&gt;</content><author><name></name></author><summary type="html">Вторая часть цикла статей про усилитель Mauro/Vidalgo закончилась тем, что я спалил 2 платы в попытках их замерить через звуковую. На самом деле я немного приврал. Конечно же спалил я не две, а четыре платы. Первые две паленые платы для меня были не самым весомым аргументом остановиться и начать разбираться глубоко.</summary></entry></feed>
