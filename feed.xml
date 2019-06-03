@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-02T22:48:01+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
-    input {
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-03T09:05:02+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
+    input[type=text] {
         width: 5em
     }
 
@@ -30,10 +30,11 @@
 
 &lt;div class=&quot;container&quot; id=&quot;app&quot;&gt;
     Данные для:
-    &lt;input type=&quot;submit&quot; value=&quot;TDA2050&quot; @click=&quot;Qdc=0.09; vLossAmpVod = 4;&quot;&gt;,
-    &lt;input type=&quot;submit&quot; value=&quot;LM3886&quot; @click=&quot;Qdc=0.085; vLossAmpVod = 3;&quot;&gt;,
-    &lt;input type=&quot;submit&quot; value=&quot;TDA7294&quot; @click=&quot;Qdc=0.065; vLossAmpVod = 3;&quot;&gt;,
-    &lt;input type=&quot;submit&quot; value=&quot;TDA7293&quot; @click=&quot;Qdc=0.100; vLossAmpVod = 3;&quot;&gt;
+    &lt;input type=&quot;submit&quot; value=&quot;TDA2050&quot; @click=&quot;Qdc=0.09; vLossAmpVod = 4; ampname='TDA2050'&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;LM3886&quot; @click=&quot;Qdc=0.085; vLossAmpVod = 3; ampname='LM3886'&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;TDA7294&quot; @click=&quot;Qdc=0.065; vLossAmpVod = 3; ampname='TDA7294'&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;TDA7293&quot; @click=&quot;Qdc=0.100; vLossAmpVod = 3; ampname='TDA7293'&quot;&gt;
+    &lt;input type=&quot;submit&quot; value=&quot;умолчания&quot; @click=&quot;Qdc=0.09; vLossAmpVod = 4; ampname='чипе усиления'&quot;&gt;
     &lt;table&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -48,17 +49,22 @@
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
                 &lt;input v-model=&quot;Vopeak&quot; disabled&gt; &lt;/td&gt;
-            &lt;td&gt; Пиковое выходное напряжение, (V&lt;sub&gt;opeak&lt;/sub&gt;) &lt;/td&gt;
+            &lt;td&gt; Пиковое (амплитудное) выходное напряжение, (V&lt;sub&gt;opeak&lt;/sub&gt;) &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&quot;gray&quot;&gt;
+            &lt;td&gt;
+                &lt;input :value=&quot;Math.round(Vopeak*0.707*100)/100&quot; disabled&gt; &lt;/td&gt;
+            &lt;td&gt; Среднеквадратичное (RMS) выходное напряжение, (V&lt;sub&gt;orms&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
                 &lt;input v-model=&quot;vLossAmpVod&quot;&gt; &lt;/td&gt;
-            &lt;td&gt; Падение напряжения на усилителе, (V&lt;sub&gt;od&lt;/sub&gt;) &lt;/td&gt;
+            &lt;td&gt; Падение напряжения на {{ ampname }}, (V&lt;sub&gt;od&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
                 &lt;input v-model=&quot;Qdc&quot;&gt; &lt;/td&gt;
-            &lt;td&gt; Ток покоя усилителя, (Q&lt;sub&gt;dc&lt;/sub&gt;) &lt;/td&gt;
+            &lt;td&gt; Ток покоя на {{ ampname }}, (Q&lt;sub&gt;dc&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -118,6 +124,7 @@
             , regulation: 10
             , skachki: 10
             , Qdc: 0.09
+            , ampname: &quot;чипе усиления&quot;
         }
         , computed: {
             Vopeak: function() {
@@ -194,97 +201,12 @@
     &lt;br&gt;В статье про TDA2050, автор в данной формуле использует максимальное напряжение без нагрузки, хотя под нагрузкой оно просядет в любом случае. Это сделано для перестраховки, чтобы найти максимальные значения. Отступить от них всегда можно.
     &lt;br&gt;Эта формула интересно вытекает из разных других. Оставлю тут пару слайдов, которые наталкивают на размышления.
 &lt;/p&gt;
-
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/1.png&quot;  title=&quot;1&quot;  style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/1.png&quot;  alt=&quot;1&quot;   width=&quot;300px&quot; &gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        1
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/2.png&quot;  title=&quot;2&quot;  style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/2.png&quot;  alt=&quot;2&quot;   width=&quot;300px&quot; &gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        2
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/3.png&quot;  title=&quot;3&quot;  style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/3.png&quot;  alt=&quot;3&quot;   width=&quot;300px&quot; &gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        3
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/4.png&quot;  title=&quot;4&quot;  style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/4.png&quot;  alt=&quot;4&quot;   width=&quot;300px&quot; &gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        4
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/5.png&quot;  title=&quot;5&quot;  style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/5.png&quot;  alt=&quot;5&quot;   width=&quot;300px&quot; &gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        5
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/6.png&quot;  title=&quot;6&quot;  style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/6.png&quot;  alt=&quot;6&quot;   width=&quot;300px&quot; &gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        6
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;figure style=&quot;margin:10px; display: block; float: left;  width:300px &quot;&gt;
-    &lt;a class=&quot; fancybox&quot; data-fancybox-group=&quot;gallery&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/7.png&quot;  title=&quot;7&quot;  style=&quot;text-decoration: none;&quot;&gt;
-        &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/7.png&quot;  alt=&quot;7&quot;   width=&quot;300px&quot; &gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption style=&quot;text-align: center&quot;&gt;
-        7
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;br clear=&quot;all&quot;&gt;
+{% include gallery.html files=page.gal1 %}
 
 &lt;h3&gt;4. Перевод активной мощности в полную мощность&lt;/h3&gt;
 &lt;p&gt;
     Тупо взят усредненный коэффициент 1.5 (0.66 при обратном преобразовании).
-&lt;/p&gt;</content><author><name></name></author><summary type="html">input { width: 5em }</summary></entry><entry><title type="html">Как сделать из Lenovo отличный ноутбук</title><link href="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html" rel="alternate" type="text/html" title="Как сделать из Lenovo отличный ноутбук" /><published>2019-05-18T12:25:57+03:00</published><updated>2019-05-18T12:25:57+03:00</updated><id>/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA</id><content type="html" xml:base="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html">&lt;p&gt;Никогда в жизни не было у меня мощного ноутбука или компьютера. Я-ш-админ - любую технику можно заставить быстро выполнить почти любую требуемую задачу. Но недавно появилась-таки острая потребность именно в быстром ноутбуке.&lt;/p&gt;
+&lt;/p&gt;</content><author><name></name></author><summary type="html">input[type=text] { width: 5em }</summary></entry><entry><title type="html">Как сделать из Lenovo отличный ноутбук</title><link href="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html" rel="alternate" type="text/html" title="Как сделать из Lenovo отличный ноутбук" /><published>2019-05-18T12:25:57+03:00</published><updated>2019-05-18T12:25:57+03:00</updated><id>/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA</id><content type="html" xml:base="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html">&lt;p&gt;Никогда в жизни не было у меня мощного ноутбука или компьютера. Я-ш-админ - любую технику можно заставить быстро выполнить почти любую требуемую задачу. Но недавно появилась-таки острая потребность именно в быстром ноутбуке.&lt;/p&gt;
 
 &lt;p&gt;Выбор пал на Lenovo - хорошие недорогие ноуты. За порядка 600 долларов был взят ноут (в ноябре 2018) на базе i5-8250 с Nvidia MX150 и предустановленными 8 Гб оперативной памяти. Аналогичный HP стоил бы 1200-1300 у.е.&lt;/p&gt;
 

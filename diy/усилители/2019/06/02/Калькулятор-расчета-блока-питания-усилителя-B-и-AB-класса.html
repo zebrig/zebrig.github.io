@@ -48,8 +48,9 @@
     </header>
 
     <div class="post-content e-content" itemprop="articleBody">
-        <style>
-    input {
+        
+<style>
+    input[type=text] {
         width: 5em
     }
 
@@ -80,10 +81,11 @@
 
 <div class="container" id="app">
     Данные для:
-    <input type="submit" value="TDA2050" @click="Qdc=0.09; vLossAmpVod = 4;">,
-    <input type="submit" value="LM3886" @click="Qdc=0.085; vLossAmpVod = 3;">,
-    <input type="submit" value="TDA7294" @click="Qdc=0.065; vLossAmpVod = 3;">,
-    <input type="submit" value="TDA7293" @click="Qdc=0.100; vLossAmpVod = 3;">
+    <input type="submit" value="TDA2050" @click="Qdc=0.09; vLossAmpVod = 4; ampname='TDA2050'">,
+    <input type="submit" value="LM3886" @click="Qdc=0.085; vLossAmpVod = 3; ampname='LM3886'">,
+    <input type="submit" value="TDA7294" @click="Qdc=0.065; vLossAmpVod = 3; ampname='TDA7294'">,
+    <input type="submit" value="TDA7293" @click="Qdc=0.100; vLossAmpVod = 3; ampname='TDA7293'">
+    <input type="submit" value="умолчания" @click="Qdc=0.09; vLossAmpVod = 4; ampname='чипе усиления'">
     <table>
         <tr>
             <td>
@@ -98,17 +100,22 @@
         <tr class="gray">
             <td>
                 <input v-model="Vopeak" disabled> </td>
-            <td> Пиковое выходное напряжение, (V<sub>opeak</sub>) </td>
+            <td> Пиковое (амплитудное) выходное напряжение, (V<sub>opeak</sub>) </td>
+        </tr>
+        <tr class="gray">
+            <td>
+                <input :value="Math.round(Vopeak*0.707*100)/100" disabled> </td>
+            <td> Среднеквадратичное (RMS) выходное напряжение, (V<sub>orms</sub>) </td>
         </tr>
         <tr>
             <td>
                 <input v-model="vLossAmpVod"> </td>
-            <td> Падение напряжения на усилителе, (V<sub>od</sub>) </td>
+            <td> Падение напряжения на {{ ampname }}, (V<sub>od</sub>) </td>
         </tr>
         <tr>
             <td>
                 <input v-model="Qdc"> </td>
-            <td> Ток покоя усилителя, (Q<sub>dc</sub>) </td>
+            <td> Ток покоя на {{ ampname }}, (Q<sub>dc</sub>) </td>
         </tr>
         <tr>
             <td>
@@ -168,6 +175,7 @@
             , regulation: 10
             , skachki: 10
             , Qdc: 0.09
+            , ampname: "чипе усиления"
         }
         , computed: {
             Vopeak: function() {
@@ -244,97 +252,13 @@
     <br>В статье про TDA2050, автор в данной формуле использует максимальное напряжение без нагрузки, хотя под нагрузкой оно просядет в любом случае. Это сделано для перестраховки, чтобы найти максимальные значения. Отступить от них всегда можно.
     <br>Эта формула интересно вытекает из разных других. Оставлю тут пару слайдов, которые наталкивают на размышления.
 </p>
-
-
-<figure style="margin:10px; display: block; float: left;  width:300px ">
-    <a class=" fancybox" data-fancybox-group="gallery" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/1.png"  title="1"  style="text-decoration: none;">
-        <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/1.png"  alt="1"   width="300px" >
-    </a>
-    
-    <figcaption style="text-align: center">
-        1
-    </figcaption>
-    
-</figure>
-
-
-<figure style="margin:10px; display: block; float: left;  width:300px ">
-    <a class=" fancybox" data-fancybox-group="gallery" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/2.png"  title="2"  style="text-decoration: none;">
-        <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/2.png"  alt="2"   width="300px" >
-    </a>
-    
-    <figcaption style="text-align: center">
-        2
-    </figcaption>
-    
-</figure>
-
-
-<figure style="margin:10px; display: block; float: left;  width:300px ">
-    <a class=" fancybox" data-fancybox-group="gallery" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/3.png"  title="3"  style="text-decoration: none;">
-        <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/3.png"  alt="3"   width="300px" >
-    </a>
-    
-    <figcaption style="text-align: center">
-        3
-    </figcaption>
-    
-</figure>
-
-
-<figure style="margin:10px; display: block; float: left;  width:300px ">
-    <a class=" fancybox" data-fancybox-group="gallery" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/4.png"  title="4"  style="text-decoration: none;">
-        <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/4.png"  alt="4"   width="300px" >
-    </a>
-    
-    <figcaption style="text-align: center">
-        4
-    </figcaption>
-    
-</figure>
-
-
-<figure style="margin:10px; display: block; float: left;  width:300px ">
-    <a class=" fancybox" data-fancybox-group="gallery" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/5.png"  title="5"  style="text-decoration: none;">
-        <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/5.png"  alt="5"   width="300px" >
-    </a>
-    
-    <figcaption style="text-align: center">
-        5
-    </figcaption>
-    
-</figure>
-
-
-<figure style="margin:10px; display: block; float: left;  width:300px ">
-    <a class=" fancybox" data-fancybox-group="gallery" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/6.png"  title="6"  style="text-decoration: none;">
-        <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/6.png"  alt="6"   width="300px" >
-    </a>
-    
-    <figcaption style="text-align: center">
-        6
-    </figcaption>
-    
-</figure>
-
-
-<figure style="margin:10px; display: block; float: left;  width:300px ">
-    <a class=" fancybox" data-fancybox-group="gallery" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/7.png"  title="7"  style="text-decoration: none;">
-        <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/7.png"  alt="7"   width="300px" >
-    </a>
-    
-    <figcaption style="text-align: center">
-        7
-    </figcaption>
-    
-</figure>
-
-<br clear="all">
+{% include gallery.html files=page.gal1 %}
 
 <h3>4. Перевод активной мощности в полную мощность</h3>
 <p>
     Тупо взят усредненный коэффициент 1.5 (0.66 при обратном преобразовании).
 </p>
+
     </div><a class="u-url" href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" hidden></a>
 </article>
       </div>
