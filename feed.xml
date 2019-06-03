@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-03T09:21:01+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
-    input[type=text] {
-        width: 5em
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-03T09:45:02+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
+    input[type=&quot;text&quot;] {
+        width: 4em 
     }
 
     .gray {
@@ -38,77 +38,77 @@
     &lt;table&gt;
         &lt;tr&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;powerOutputPo&quot; @keydown.up=&quot;powerOutputPo = Number(powerOutputPo)+1&quot; @keydown.down=&quot;powerOutputPo = Number(powerOutputPo)-1&quot;&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;powerOutputPo&quot; @keydown.up=&quot;powerOutputPo = Number(powerOutputPo)+1&quot; @keydown.down=&quot;powerOutputPo = Number(powerOutputPo)-1&quot;&gt; &lt;/td&gt;
             &lt;td&gt; Общая выходная мощность усилителя, Вт (P&lt;sub&gt;o&lt;/sub&gt;) (кнопки вверх-вниз меняют значение на 1)&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;coilresistanceRl&quot;&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;coilresistanceRl&quot;&gt; &lt;/td&gt;
             &lt;td&gt; Импеданс динамика, Ом (R&lt;sub&gt;L&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;Vopeak&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;Vopeak&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Пиковое (амплитудное) выходное напряжение, (V&lt;sub&gt;opeak&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input :value=&quot;Math.round(Vopeak*0.707*100)/100&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; :value=&quot;Math.round(Vopeak*0.707*100)/100&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Среднеквадратичное (RMS) выходное напряжение, (V&lt;sub&gt;orms&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;vLossAmpVod&quot;&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;vLossAmpVod&quot;&gt; &lt;/td&gt;
             &lt;td&gt; Падение напряжения на {{ ampname }}, (V&lt;sub&gt;od&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;Qdc&quot;&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;Qdc&quot;&gt; &lt;/td&gt;
             &lt;td&gt; Ток покоя на {{ ampname }}, мА (Q&lt;sub&gt;dc&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;regulation&quot;&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;regulation&quot;&gt; &lt;/td&gt;
             &lt;td&gt; Величина повышения напряжения при простое трансформатора, % (Regulation) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;skachki&quot;&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;skachki&quot;&gt; &lt;/td&gt;
             &lt;td&gt; Коэффициент нестабильности напряжения питающей сети 220в, % &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;Vmaxsupply&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;Vmaxsupply&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Максимальное постоянное напряжение блока питания, &amp;plusmn;В, (V&lt;sub&gt;max supply&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;VmaxsupplyAc&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;VmaxsupplyAc&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Максимальное номинальное переменное напряжение одного плеча трансформатора (под нагрузкой) АС, В, (V&lt;sub&gt;max supply AC&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;Imaxsupplyac&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;Imaxsupplyac&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Максимальная сила тока переменного напряжения одного плеча трансформатора (под нагрузкой) АС, А (I&lt;sub&gt;max supply AC&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input :value=&quot;Psupply/2&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; :value=&quot;Psupply/2&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Активная мощность трансформатора на один канал усилителя (на одно плечо питания), Вт (P&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;Psupply&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;Psupply&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Активная мощность трансформатора на один канал усилителя (суммарно на оба плеча), Вт (P&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input :value=&quot;Ssupply/2&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; :value=&quot;Ssupply/2&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Полная мощность трансформатора на один канал усилителя (на одно плечо питания), ВA (S&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
-                &lt;input v-model=&quot;Ssupply&quot; disabled&gt; &lt;/td&gt;
+                &lt;input type=&quot;text&quot; v-model=&quot;Ssupply&quot; disabled&gt; &lt;/td&gt;
             &lt;td&gt; Полная мощность трансформатора на один канал усилителя (суммарно на оба плеча), ВA (S&lt;sub&gt;supply&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
@@ -206,7 +206,7 @@
 &lt;h3&gt;4. Перевод активной мощности в полную мощность&lt;/h3&gt;
 &lt;p&gt;
     Тупо взят усредненный коэффициент 1.5 (0.66 при обратном преобразовании).
-&lt;/p&gt;</content><author><name></name></author><summary type="html">input[type=text] { width: 5em }</summary></entry><entry><title type="html">Как сделать из Lenovo отличный ноутбук</title><link href="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html" rel="alternate" type="text/html" title="Как сделать из Lenovo отличный ноутбук" /><published>2019-05-18T12:25:57+03:00</published><updated>2019-05-18T12:25:57+03:00</updated><id>/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA</id><content type="html" xml:base="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html">&lt;p&gt;Никогда в жизни не было у меня мощного ноутбука или компьютера. Я-ш-админ - любую технику можно заставить быстро выполнить почти любую требуемую задачу. Но недавно появилась-таки острая потребность именно в быстром ноутбуке.&lt;/p&gt;
+&lt;/p&gt;</content><author><name></name></author><summary type="html">input[type=&quot;text&quot;] { width: 4em }</summary></entry><entry><title type="html">Как сделать из Lenovo отличный ноутбук</title><link href="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html" rel="alternate" type="text/html" title="Как сделать из Lenovo отличный ноутбук" /><published>2019-05-18T12:25:57+03:00</published><updated>2019-05-18T12:25:57+03:00</updated><id>/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA</id><content type="html" xml:base="/diy/2019/05/18/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7-Lenovo-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.html">&lt;p&gt;Никогда в жизни не было у меня мощного ноутбука или компьютера. Я-ш-админ - любую технику можно заставить быстро выполнить почти любую требуемую задачу. Но недавно появилась-таки острая потребность именно в быстром ноутбуке.&lt;/p&gt;
 
 &lt;p&gt;Выбор пал на Lenovo - хорошие недорогие ноуты. За порядка 600 долларов был взят ноут (в ноябре 2018) на базе i5-8250 с Nvidia MX150 и предустановленными 8 Гб оперативной памяти. Аналогичный HP стоил бы 1200-1300 у.е.&lt;/p&gt;
 

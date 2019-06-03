@@ -50,8 +50,8 @@
     <div class="post-content e-content" itemprop="articleBody">
         
 <style>
-    input[type=text] {
-        width: 5em
+    input[type="text"] {
+        width: 4em 
     }
 
     .gray {
@@ -89,77 +89,77 @@
     <table>
         <tr>
             <td>
-                <input v-model="powerOutputPo" @keydown.up="powerOutputPo = Number(powerOutputPo)+1" @keydown.down="powerOutputPo = Number(powerOutputPo)-1"> </td>
+                <input type="text" v-model="powerOutputPo" @keydown.up="powerOutputPo = Number(powerOutputPo)+1" @keydown.down="powerOutputPo = Number(powerOutputPo)-1"> </td>
             <td> Общая выходная мощность усилителя, Вт (P<sub>o</sub>) (кнопки вверх-вниз меняют значение на 1)</td>
         </tr>
         <tr>
             <td>
-                <input v-model="coilresistanceRl"> </td>
+                <input type="text" v-model="coilresistanceRl"> </td>
             <td> Импеданс динамика, Ом (R<sub>L</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input v-model="Vopeak" disabled> </td>
+                <input type="text" v-model="Vopeak" disabled> </td>
             <td> Пиковое (амплитудное) выходное напряжение, (V<sub>opeak</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input :value="Math.round(Vopeak*0.707*100)/100" disabled> </td>
+                <input type="text" :value="Math.round(Vopeak*0.707*100)/100" disabled> </td>
             <td> Среднеквадратичное (RMS) выходное напряжение, (V<sub>orms</sub>) </td>
         </tr>
         <tr>
             <td>
-                <input v-model="vLossAmpVod"> </td>
+                <input type="text" v-model="vLossAmpVod"> </td>
             <td> Падение напряжения на {{ ampname }}, (V<sub>od</sub>) </td>
         </tr>
         <tr>
             <td>
-                <input v-model="Qdc"> </td>
+                <input type="text" v-model="Qdc"> </td>
             <td> Ток покоя на {{ ampname }}, мА (Q<sub>dc</sub>) </td>
         </tr>
         <tr>
             <td>
-                <input v-model="regulation"> </td>
+                <input type="text" v-model="regulation"> </td>
             <td> Величина повышения напряжения при простое трансформатора, % (Regulation) </td>
         </tr>
         <tr>
             <td>
-                <input v-model="skachki"> </td>
+                <input type="text" v-model="skachki"> </td>
             <td> Коэффициент нестабильности напряжения питающей сети 220в, % </td>
         </tr>
         <tr class="gray">
             <td>
-                <input v-model="Vmaxsupply" disabled> </td>
+                <input type="text" v-model="Vmaxsupply" disabled> </td>
             <td> Максимальное постоянное напряжение блока питания, &plusmn;В, (V<sub>max supply</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input v-model="VmaxsupplyAc" disabled> </td>
+                <input type="text" v-model="VmaxsupplyAc" disabled> </td>
             <td> Максимальное номинальное переменное напряжение одного плеча трансформатора (под нагрузкой) АС, В, (V<sub>max supply AC</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input v-model="Imaxsupplyac" disabled> </td>
+                <input type="text" v-model="Imaxsupplyac" disabled> </td>
             <td> Максимальная сила тока переменного напряжения одного плеча трансформатора (под нагрузкой) АС, А (I<sub>max supply AC</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input :value="Psupply/2" disabled> </td>
+                <input type="text" :value="Psupply/2" disabled> </td>
             <td> Активная мощность трансформатора на один канал усилителя (на одно плечо питания), Вт (P<sub>supply</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input v-model="Psupply" disabled> </td>
+                <input type="text" v-model="Psupply" disabled> </td>
             <td> Активная мощность трансформатора на один канал усилителя (суммарно на оба плеча), Вт (P<sub>supply</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input :value="Ssupply/2" disabled> </td>
+                <input type="text" :value="Ssupply/2" disabled> </td>
             <td> Полная мощность трансформатора на один канал усилителя (на одно плечо питания), ВA (S<sub>supply</sub>) </td>
         </tr>
         <tr class="gray">
             <td>
-                <input v-model="Ssupply" disabled> </td>
+                <input type="text" v-model="Ssupply" disabled> </td>
             <td> Полная мощность трансформатора на один канал усилителя (суммарно на оба плеча), ВA (S<sub>supply</sub>) </td>
         </tr>
     </table>
