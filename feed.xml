@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-03T09:11:16+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-03T09:21:01+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
     input[type=text] {
         width: 5em
     }
@@ -30,11 +30,11 @@
 
 &lt;div class=&quot;container&quot; id=&quot;app&quot;&gt;
     Данные для:
-    &lt;input type=&quot;submit&quot; value=&quot;TDA2050&quot; @click=&quot;Qdc=0.09; vLossAmpVod = 4; ampname='TDA2050'&quot;&gt;,
-    &lt;input type=&quot;submit&quot; value=&quot;LM3886&quot; @click=&quot;Qdc=0.085; vLossAmpVod = 3; ampname='LM3886'&quot;&gt;,
-    &lt;input type=&quot;submit&quot; value=&quot;TDA7294&quot; @click=&quot;Qdc=0.065; vLossAmpVod = 3; ampname='TDA7294'&quot;&gt;,
-    &lt;input type=&quot;submit&quot; value=&quot;TDA7293&quot; @click=&quot;Qdc=0.100; vLossAmpVod = 3; ampname='TDA7293'&quot;&gt;
-    &lt;input type=&quot;submit&quot; value=&quot;умолчания&quot; @click=&quot;Qdc=0.09; vLossAmpVod = 4; ampname='чипе усиления'&quot;&gt;
+    &lt;input type=&quot;submit&quot; value=&quot;TDA2050&quot; @click=&quot;Qdc=90; vLossAmpVod = 4; ampname='TDA2050'&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;LM3886&quot; @click=&quot;Qdc=85; vLossAmpVod = 3; ampname='LM3886'&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;TDA7294&quot; @click=&quot;Qdc=65; vLossAmpVod = 3; ampname='TDA7294'&quot;&gt;,
+    &lt;input type=&quot;submit&quot; value=&quot;TDA7293&quot; @click=&quot;Qdc=100; vLossAmpVod = 3; ampname='TDA7293'&quot;&gt;
+    &lt;input type=&quot;submit&quot; value=&quot;умолчания&quot; @click=&quot;Qdc=90; vLossAmpVod = 4; ampname='чипе усиления'&quot;&gt;
     &lt;table&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -64,7 +64,7 @@
         &lt;tr&gt;
             &lt;td&gt;
                 &lt;input v-model=&quot;Qdc&quot;&gt; &lt;/td&gt;
-            &lt;td&gt; Ток покоя на {{ ampname }}, (Q&lt;sub&gt;dc&lt;/sub&gt;) &lt;/td&gt;
+            &lt;td&gt; Ток покоя на {{ ampname }}, мА (Q&lt;sub&gt;dc&lt;/sub&gt;) &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -123,7 +123,7 @@
             , vLossAmpVod: 4
             , regulation: 10
             , skachki: 10
-            , Qdc: 0.09
+            , Qdc: 90
             , ampname: &quot;чипе усиления&quot;
         }
         , computed: {
@@ -137,7 +137,7 @@
                 return Math.round((this.Vopeak + Number(this.vLossAmpVod)) / 1.41 * 100) / 100
             }
             , Psupply: function() {
-                return Math.round(2 * this.Vmaxsupply * (this.Vopeak / (Math.PI * this.coilresistanceRl) + this.Qdc) * 100) / 100
+                return Math.round(2 * this.Vmaxsupply * (this.Vopeak / (Math.PI * this.coilresistanceRl) + this.Qdc/1000) * 100) / 100
             }
             , Ssupply: function() {
                 return Math.round(this.Psupply * 1.5 * 100) / 100

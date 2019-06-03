@@ -81,11 +81,11 @@
 
 <div class="container" id="app">
     Данные для:
-    <input type="submit" value="TDA2050" @click="Qdc=0.09; vLossAmpVod = 4; ampname='TDA2050'">,
-    <input type="submit" value="LM3886" @click="Qdc=0.085; vLossAmpVod = 3; ampname='LM3886'">,
-    <input type="submit" value="TDA7294" @click="Qdc=0.065; vLossAmpVod = 3; ampname='TDA7294'">,
-    <input type="submit" value="TDA7293" @click="Qdc=0.100; vLossAmpVod = 3; ampname='TDA7293'">
-    <input type="submit" value="умолчания" @click="Qdc=0.09; vLossAmpVod = 4; ampname='чипе усиления'">
+    <input type="submit" value="TDA2050" @click="Qdc=90; vLossAmpVod = 4; ampname='TDA2050'">,
+    <input type="submit" value="LM3886" @click="Qdc=85; vLossAmpVod = 3; ampname='LM3886'">,
+    <input type="submit" value="TDA7294" @click="Qdc=65; vLossAmpVod = 3; ampname='TDA7294'">,
+    <input type="submit" value="TDA7293" @click="Qdc=100; vLossAmpVod = 3; ampname='TDA7293'">
+    <input type="submit" value="умолчания" @click="Qdc=90; vLossAmpVod = 4; ampname='чипе усиления'">
     <table>
         <tr>
             <td>
@@ -115,7 +115,7 @@
         <tr>
             <td>
                 <input v-model="Qdc"> </td>
-            <td> Ток покоя на {{ ampname }}, (Q<sub>dc</sub>) </td>
+            <td> Ток покоя на {{ ampname }}, мА (Q<sub>dc</sub>) </td>
         </tr>
         <tr>
             <td>
@@ -174,7 +174,7 @@
             , vLossAmpVod: 4
             , regulation: 10
             , skachki: 10
-            , Qdc: 0.09
+            , Qdc: 90
             , ampname: "чипе усиления"
         }
         , computed: {
@@ -188,7 +188,7 @@
                 return Math.round((this.Vopeak + Number(this.vLossAmpVod)) / 1.41 * 100) / 100
             }
             , Psupply: function() {
-                return Math.round(2 * this.Vmaxsupply * (this.Vopeak / (Math.PI * this.coilresistanceRl) + this.Qdc) * 100) / 100
+                return Math.round(2 * this.Vmaxsupply * (this.Vopeak / (Math.PI * this.coilresistanceRl) + this.Qdc/1000) * 100) / 100
             }
             , Ssupply: function() {
                 return Math.round(this.Psupply * 1.5 * 100) / 100
