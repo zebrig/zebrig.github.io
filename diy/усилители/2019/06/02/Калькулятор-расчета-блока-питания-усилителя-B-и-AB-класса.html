@@ -51,7 +51,7 @@
         
 <style>
     input[type="text"] {
-        width: 4em 
+        width: 4em
     }
 
     .gray {
@@ -163,6 +163,35 @@
                 <input type="text" v-model="Ssupply" disabled> </td>
             <td> Полная мощность трансформатора на один канал усилителя (суммарно на оба плеча), ВA (S<sub>supply</sub>) </td>
         </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" v-model="SPL"> </td>
+            <td> Чувствительность динамика, дБ/Вт/м (SPL) </td>
+        </tr>
+        <tr class="gray">
+            <td>
+                <input type="text" :value="SPL1m" disabled> </td>
+            <td> Громкость одного динамика от усилителя на расстоянии 1 м</td>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" v-model="distance"> </td>
+            <td> Расстояние от динамика, м</td>
+        </tr>
+        <tr class="gray">
+            <td>
+                <input type="text" :value="Loudmono" disabled> </td>
+            <td> Громкость на расстоянии {{ distance }} м от одного динамика, дБ </td>
+        </tr>
+        <tr class="gray">
+            <td>
+                <input type="text" :value="Loudmono+3" disabled> </td>
+            <td> Громкость на расстоянии {{ distance }} м от стерео динамиков, дБ </td>
+        </tr>
     </table>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js" integrity="sha256-ufGElb3TnOtzl5E4c/qQnZFGP+FYEZj5kbSEdJNrw0A=" crossorigin="anonymous"></script>
@@ -176,6 +205,8 @@
             , regulation: 10
             , skachki: 10
             , Qdc: 90
+            , SPL: 90
+            , distance: 5
             , ampname: "чипе усиления"
         }
         , computed: {
@@ -189,13 +220,19 @@
                 return Math.round((this.Vopeak + Number(this.vLossAmpVod)) / 1.41 * 100) / 100
             }
             , Psupply: function() {
-                return Math.round(2 * this.Vmaxsupply * (this.Vopeak / (Math.PI * this.coilresistanceRl) + this.Qdc/1000) * 100) / 100
+                return Math.round(2 * this.Vmaxsupply * (this.Vopeak / (Math.PI * this.coilresistanceRl) + this.Qdc / 1000) * 100) / 100
             }
             , Ssupply: function() {
                 return Math.round(this.Psupply * 1.5 * 100) / 100
             }
             , Imaxsupplyac: function() {
                 return Math.round(this.Ssupply / 2 / this.VmaxsupplyAc * 100) / 100
+            }
+            , SPL1m: function() {
+                return Math.round((Number(this.SPL) + 10 * Math.log10(this.powerOutputPo)) * 100) / 100
+            }
+            , Loudmono: function() {
+                return Math.round((this.SPL1m - 20 * Math.log10(this.distance)) * 100) / 100
             }
         }
     })
@@ -345,6 +382,39 @@
     Тупо взят усредненный коэффициент 1.5 (0.66 при обратном преобразовании).
 </p>
 
+<h3>5. Вычисление громкости на расстоянии</h3>
+<p>
+    Формулы известны:<br>
+    \( P_{звукового\ давления\ на\ 1\ м} = SPL_{динамика} + 10 \times \log_{10} (P_{усилителя})
+    \)
+    <br><br>
+    А формула громкости на расстоянии выглядит так:<br>
+    \( P_{звукового\ давления} = P_{звукового\ давления\ на\ 1\ м} - 20 \times \log_{10} (L)
+    \\L - расстояние\ в\ метрах
+    \)
+    <br>
+    
+
+<figure>
+    
+        <a class="fancybox" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/Zatukhanie-i-distantsiya-09102016.png"  title="классическая картинка"  style="text-decoration: none;">
+            
+            <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/Zatukhanie-i-distantsiya-09102016.png"  alt="классическая картинка"  >
+        </a>
+        
+        <figcaption style="text-align: center">
+            классическая картинка
+        </figcaption>
+        
+</figure>
+</p>
+<p>
+    Для простого усвоения нашел в интернетах вот такое 
+        
+<a   href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/part2.pdf"  >
+    учебное пособие по проектированию систем оповещения
+</a>. Единственное, там нигде не указано, что надо брать логарифм по основанию 10.
+</p>
     </div><!-- Put this script tag to the <head> of your page -->
     <script type="text/javascript" src="https://vk.com/js/api/openapi.js?160"></script>
 
@@ -380,7 +450,7 @@
                     <li class="p-name"></li><li><a class="u-email" href="mailto:ez@ez.by">ez@ez.by</a></li></ul>
             </div>
 
-            <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/zebrig"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">zebrig</span></a></li></ul>
+            <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
 </div>
 
             <div class="footer-col footer-col-3">
