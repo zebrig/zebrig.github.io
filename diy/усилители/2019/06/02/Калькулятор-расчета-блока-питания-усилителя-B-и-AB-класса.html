@@ -190,8 +190,47 @@
         <tr class="gray">
             <td>
                 <input type="text" :value="Loudmono+3" disabled> </td>
-            <td> Громкость на расстоянии {{ distance }} м от стерео динамиков, дБ </td>
-        </tr>
+                <td> Громкость на расстоянии {{ distance }} м от стерео динамиков, дБ </td>
+            </tr>
+            <tr>
+                <td>
+                    <a @click="showpics=!showpics">что это за громкость?</a>
+                </td>
+                <td>
+                        
+                        <span :style="showpics?'':'display:none'">
+                            
+                            
+
+<figure>
+    
+        <a class="fancybox" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/dinamicheskij-diapazon-cifrovyh-audio-traktov-3.png"  title="Динамический диапазон слуха"  style="text-decoration: none;">
+            
+            <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/dinamicheskij-diapazon-cifrovyh-audio-traktov-3.png"  alt="Динамический диапазон слуха"  >
+        </a>
+        
+        <figcaption style="text-align: center">
+            Динамический диапазон слуха
+        </figcaption>
+        
+</figure>
+                            
+
+<figure>
+    
+        <a class="fancybox" href="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/zvukovykh-davleniy-dlya-pomeshcheniy-09102016.png"  title="таблица звуковых давлений для помещений"  style="text-decoration: none;">
+            
+            <img src="/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/zvukovykh-davleniy-dlya-pomeshcheniy-09102016.png"  alt="таблица звуковых давлений для помещений"  >
+        </a>
+        
+        <figcaption style="text-align: center">
+            таблица звуковых давлений для помещений
+        </figcaption>
+        
+</figure>
+                        </span>
+                        </td>
+                    </tr>
     </table>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js" integrity="sha256-ufGElb3TnOtzl5E4c/qQnZFGP+FYEZj5kbSEdJNrw0A=" crossorigin="anonymous"></script>
@@ -208,6 +247,7 @@
             , SPL: 90
             , distance: 5
             , ampname: "чипе усиления"
+            , showpics:false
         }
         , computed: {
             Vopeak: function() {
@@ -237,7 +277,6 @@
         }
     })
 </script>
-
 
 <h2>Откуда эти цифры</h2>
 <h3>1. Расчет мощности амплитудного напряжения для синусоиды.</h3>

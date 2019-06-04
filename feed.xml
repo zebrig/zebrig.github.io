@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-04T11:57:19+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-04T12:13:33+03:00</updated><id>/feed.xml</id><title type="html">Блог Егора Залесского</title><subtitle>Блог о музыке и не только</subtitle><entry><title type="html">Калькулятор расчета блока питания усилителя B и AB класса</title><link href="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html" rel="alternate" type="text/html" title="Калькулятор расчета блока питания усилителя B и AB класса" /><published>2019-06-02T13:25:57+03:00</published><updated>2019-06-02T13:25:57+03:00</updated><id>/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0</id><content type="html" xml:base="/diy/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8/2019/06/02/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-B-%D0%B8-AB-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.html">&lt;style&gt;
     input[type=&quot;text&quot;] {
         width: 4em
     }
@@ -139,8 +139,47 @@
         &lt;tr class=&quot;gray&quot;&gt;
             &lt;td&gt;
                 &lt;input type=&quot;text&quot; :value=&quot;Loudmono+3&quot; disabled&gt; &lt;/td&gt;
-            &lt;td&gt; Громкость на расстоянии {{ distance }} м от стерео динамиков, дБ &lt;/td&gt;
-        &lt;/tr&gt;
+                &lt;td&gt; Громкость на расстоянии {{ distance }} м от стерео динамиков, дБ &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;a @click=&quot;showpics=!showpics&quot;&gt;что это за громкость?&lt;/a&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                        
+                        &lt;span :style=&quot;showpics?'':'display:none'&quot;&gt;
+                            
+                            
+
+&lt;figure&gt;
+    
+        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/dinamicheskij-diapazon-cifrovyh-audio-traktov-3.png&quot;  title=&quot;Динамический диапазон слуха&quot;  style=&quot;text-decoration: none;&quot;&gt;
+            
+            &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/dinamicheskij-diapazon-cifrovyh-audio-traktov-3.png&quot;  alt=&quot;Динамический диапазон слуха&quot;  &gt;
+        &lt;/a&gt;
+        
+        &lt;figcaption style=&quot;text-align: center&quot;&gt;
+            Динамический диапазон слуха
+        &lt;/figcaption&gt;
+        
+&lt;/figure&gt;
+                            
+
+&lt;figure&gt;
+    
+        &lt;a class=&quot;fancybox&quot; href=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/zvukovykh-davleniy-dlya-pomeshcheniy-09102016.png&quot;  title=&quot;таблица звуковых давлений для помещений&quot;  style=&quot;text-decoration: none;&quot;&gt;
+            
+            &lt;img src=&quot;/assets/posts/2019-06-02-Калькулятор-расчета-блока-питания-усилителя-b-и-ab-класса/zvukovykh-davleniy-dlya-pomeshcheniy-09102016.png&quot;  alt=&quot;таблица звуковых давлений для помещений&quot;  &gt;
+        &lt;/a&gt;
+        
+        &lt;figcaption style=&quot;text-align: center&quot;&gt;
+            таблица звуковых давлений для помещений
+        &lt;/figcaption&gt;
+        
+&lt;/figure&gt;
+                        &lt;/span&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
     &lt;/table&gt;
 &lt;/div&gt;
 &lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js&quot; integrity=&quot;sha256-ufGElb3TnOtzl5E4c/qQnZFGP+FYEZj5kbSEdJNrw0A=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
@@ -157,6 +196,7 @@
             , SPL: 90
             , distance: 5
             , ampname: &quot;чипе усиления&quot;
+            , showpics:false
         }
         , computed: {
             Vopeak: function() {
@@ -186,7 +226,6 @@
         }
     })
 &lt;/script&gt;
-
 
 &lt;h2&gt;Откуда эти цифры&lt;/h2&gt;
 &lt;h3&gt;1. Расчет мощности амплитудного напряжения для синусоиды.&lt;/h3&gt;
